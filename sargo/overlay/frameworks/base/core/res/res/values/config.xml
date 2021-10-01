@@ -685,6 +685,6 @@
         <item>G020H</item>
     </string-array>
 
-    <dimen name="rounded_corner_radius">40dp</dimen>
+    <dimen name="rounded_corner_radius">20dp</dimen>
 
 </resources>
